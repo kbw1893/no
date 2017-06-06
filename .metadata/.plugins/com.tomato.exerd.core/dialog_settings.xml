@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="solutionSelectionDialog">
+		<item value="1" key="applyScope"/>
+	</section>
+	<section name="solution">
+		<item value="ASK_TO_USER" key="whenRemoveFK.en"/>
+		<item value="ASK_TO_USER" key="addTableDiagram"/>
+		<item value="ASK_TO_USER" key="unknownDomain"/>
+		<item value="ASK_TO_USER" key="whenRemoveFK"/>
+		<item value="ASK_TO_USER" key="experimentalFunction"/>
+		<item value="ASK_TO_USER" key="shoudReuseColumnForRelation"/>
+		<item value="ASK_TO_USER" key="removeDomain"/>
+		<item value="ASK_TO_USER" key="removeRelation"/>
+		<item value="ASK_TO_USER" key="removeReferredColumn"/>
+		<item value="ASK_TO_USER" key="outOfSync"/>
+		<item value="ASK_TO_USER" key="xmlContentWithoutErdxExtension"/>
+		<item value="ASK_TO_USER" key="sendToBusinessArea"/>
+	</section>
+	<section name="com.tomato.exerd.core.wizard.NewEXerdWizard">
+	</section>
+	<section name="com.tomato.exerd.handler.Helper.FindTableDialog2">
+		<item value="639" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="" key="history"/>
+		<item value="598" key="DIALOG_HEIGHT"/>
+		<item value="1158" key="DIALOG_X_ORIGIN"/>
+		<item value="315" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
