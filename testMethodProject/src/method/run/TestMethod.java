@@ -5,19 +5,19 @@ import method.sample.SampleMethodClass;
 public class TestMethod {
 
 	public static void main(String[] args) {
-		// Å¬·¡½º°¡ Á¦°øÇÏ´Â non-static ¸Þ¼Òµå¸¦ »ç¿ëÇÏ·Á¸é
+		// yyyyy
 		SampleMethodClass samp = new SampleMethodClass();
 		
-		//¹ÝÈ¯°ª ¾ø°í ¸Å°³º¯¼ö ¾ø´Â ¸Þ¼Òµå ½ÇÇà
+		//ï¿½ï¿½È¯ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Å°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Þ¼Òµï¿½ ï¿½ï¿½ï¿½ï¿½
 		samp.hello();
-		//¹ÝÈ¯°ª ¾ø°í ¸Å°³º¯¼ö ÀÖ´Â ¸Þ¼Òµå ½ÇÇà
+		//ï¿½ï¿½È¯ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Å°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½Þ¼Òµï¿½ ï¿½ï¿½ï¿½ï¿½
 		samp.welcome(1);
 		samp.welcome(2);
 
-		//¹ÝÈ¯°ª ÀÖ°í ¸Å°³º¯¼ö ¾ø´Â ¸Þ¼Òµå ½ÇÇà
+		//ï¿½ï¿½È¯ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Å°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Þ¼Òµï¿½ ï¿½ï¿½ï¿½ï¿½
 		int num = samp.lottoNumber();
 		System.out.println("num : " + num);
-		//¹ÝÈ¯°ª ÀÖ°í ¸Å°³º¯¼ö ÀÖ´Â ¸Þ¼Òµå ½ÇÇà
+		//ï¿½ï¿½È¯ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Å°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½Þ¼Òµï¿½ ï¿½ï¿½ï¿½ï¿½
 		int num2 = samp.value(100);
 		System.out.println("num2 : " + num2);
 	}
