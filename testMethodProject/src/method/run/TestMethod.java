@@ -5,7 +5,7 @@ import method.sample.SampleMethodClass;
 public class TestMethod {
 
 	public static void main(String[] args) {
-		// yyyyy 123456
+		// yyyyy 123456 5678
 		SampleMethodClass samp = new SampleMethodClass();
 		
 		//��ȯ�� ���� �Ű����� ���� �޼ҵ� ����
